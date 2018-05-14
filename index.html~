@@ -8,7 +8,7 @@
 <body> 
 
 	<div class=Paragraph>
-		<p>List of Tacos Places to eat: <br> </p>
+		<p>List of Tacos Places to eat: <br><br><br> </p>
 	<li> Fish </li>
 	<li> Carne Asada </li>
 	</div>

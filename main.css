@@ -5,6 +5,9 @@ html,
 h1 	{
 	color: red;
 	margin: auto;
+	width: 50%;
+	border: 5px solid green;
+	padding: 20px;
 	}
 
 body 	{

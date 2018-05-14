@@ -1,24 +1,24 @@
 html,
 
-body {
+body 	{
 	background-color: black;
 	}
 
 
 h2	{
 	font-size: 40px;
-	color: blue;
-}
+	color: red;
+	}
 
 
 .paragraph {
-	color: white;
+	color: yellow;
 	font-size: 8px;
 	}
 
 
 .random {
-	color: white;
+	color: green;
 	padding-left: 20px;
 	}
 

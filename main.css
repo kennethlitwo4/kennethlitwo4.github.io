@@ -8,19 +8,19 @@ h1 	{
 	}
 
 body 	{
-	background-color: black;
+	background-color: gray;
 	}
 
 h2	{
 	font-size: 40px;
-	color: red;
+	color: green;
 	}
 
 p	{
 	color: blue;
 	}
 
-.paragraph {
+.intro {
 	font-size: 8px;
 	margin: auto;
 	width: 50%;
@@ -30,7 +30,7 @@ p	{
 
 
 .random {
-	color: green;
+	font-size: 16px;
 	padding-left: 50px;
 	margin: auto;
 	width: 50%;

@@ -12,6 +12,11 @@
 	<li> Fish </li>
 	<li> Carne Asada </li>
 	</div>
+
+	<h2> Some Random Text </h2>
+	<div class=Random>
+		<p> You've coded 3 days in a row. Keep up the good work! How long can you keep your streak alive? </p>
+	</div>
 	
 </body>
 

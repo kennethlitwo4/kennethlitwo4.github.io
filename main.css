@@ -1,13 +1,17 @@
 html,
 
+body {
+	background-color: black;
+	}
+
+
 h2	{
-	font-size: 20px;
+	font-size: 40px;
 	color: blue;
 }
 
 
 .paragraph {
-	background-color: black;
 	color: white;
 	font-size: 14px;
 	}

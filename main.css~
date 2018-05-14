@@ -1,5 +1,10 @@
 html,
 
+h2	{
+	font-size: 20px;
+}
+
+
 .paragraph {
 	background-color: black;
 	font-color: white;

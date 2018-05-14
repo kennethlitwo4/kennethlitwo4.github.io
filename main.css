@@ -2,18 +2,19 @@ html,
 
 h2	{
 	font-size: 20px;
+	color: blue;
 }
 
 
 .paragraph {
 	background-color: black;
-	font-color: white;
+	color: white;
 	font-size: 14px;
 	}
 
 
 .random {
-	font-color: white;
+	color: white;
 	padding-left: 20px;
 	}
 

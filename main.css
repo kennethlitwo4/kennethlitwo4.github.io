@@ -4,38 +4,34 @@ html,
 
 h1 	{
 	color: red;
-	
+
 	}
 
 body 	{
-	background-color: gray;
+	background-color: black;
 	}
 
 h2	{
-	font-size: 40px;
-	color: green;
+	font-size: 24px;
+	color: White;
 	}
 
 p	{
-	color: blue;
+	color: White;
 	}
 
-.intro {
-	font-size: 8px;
+.navigation {
+	font-size: 16px;
+	margin:auto;
+	max-width: 30%;
+	position: absolute;
+	left: 0px;
+
+}
+
+.paragraph {
+	font-size: 14px;
 	margin: auto;
 	width: 50%;
-	border: 5px solid green;
 	padding: 20px;
 	}
-
-
-.random {
-	font-size: 16px;
-	padding-left: 50px;
-	margin: auto;
-	width: 50%;
-	border: 5px dashed red;
-	}
-
-
-

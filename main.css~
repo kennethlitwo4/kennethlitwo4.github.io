@@ -20,7 +20,7 @@ p	{
 	color: White;
 	}
 
-.navi {
+.navigation {
 	font-size: 16px;
 	margin:auto;
 	max-width: 30%;

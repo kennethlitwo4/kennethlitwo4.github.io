@@ -1,26 +1,37 @@
 html,
 
+
+
+h1 	{
+	color: red;
+
+	}
+
 body 	{
 	background-color: black;
 	}
 
-
 h2	{
-	font-size: 40px;
-	color: blue;
+	font-size: 24px;
+	color: White;
 	}
 
+p	{
+	color: White;
+	}
+
+.navi {
+	font-size: 14px;
+	margin:auto;
+	max-width: 30%;
+	position: absolute;
+	left: 0px;
+
+}
 
 .paragraph {
-	color: white;
-	font-size: 8px;
+	font-size: 14px;
+	margin: auto;
+	width: 50%;
+	padding: 20px;
 	}
-
-
-.random {
-	color: white;
-	padding-left: 20px;
-	}
-
-
-

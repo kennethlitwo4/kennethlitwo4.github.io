@@ -1,23 +1,38 @@
 <!DOCTYPE html>
 <html>
 
-<link rel="stylesheet" type="text/css" href="main.css">
+<head>
+	<title> Tacos for days </title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
 
 <h1> This is my website </h1>
 
-<body> 
+<body>
 
-	<div class=Paragraph>
-		<p>List of Tacos Places to eat: <br><br><br> </p>
-	<li> Fish </li>
-	<li> Carne Asada </li>
+	<div class=navi>
+		<ul>
+			<li> Content </li>
+				<li> Menu </li>
+				<li> About </li>
+				<li> Contact</li>
+			</ul>
+		</div>
+
+<h2> My Notes: </h2>
+	<div class=paragraph>
+		<p> These are Master Grade Kits.  The kits are sold as is.
+			It will include the instruction manuals and whatever is pictured.
+			I am not sure if any accessories are missing.
+			There may be some broken parts for the model kits. Ask all questions before bidding.
+			Check out my other auctions for more model kits for sale.
+			What you see in the pictures is what you will receive. </p>
+
 	</div>
 
-	<h2> Some Random Text </h2>
-	<div class=Random>
-		<p> You've coded 3 days in a row. Keep up the good work! How long can you keep your streak alive? </p>
-	</div>
-	
+
+
 </body>
 
 
